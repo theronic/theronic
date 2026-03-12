@@ -30,6 +30,6 @@ Making software professionally for 20+ years, ideally with [Clojure](https://clo
 
 ## Social Media
 
-- [Twitter](https://twitter.com/PetrusTheron): @PetrusTheron
+- [Twitter](https://twitter.com/BraaiEngineer): @BraaiEngineer
 - [LinkedIn](https://www.linkedin.com/in/freshcode/)
 - [Facebook](https://facebook.com/petrustheron)
