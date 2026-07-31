@@ -13,7 +13,7 @@ Making software professionally for 20+ years, ideally with [Clojure](https://clo
 ## Projects:
 
 - [EACL](https://github.com/theronic/eacl) is a [ReBAC](https://en.wikipedia.org/wiki/Relationship-based_access_control) authorization library inspired by [SpiceDB](https://authzed.com/spicedb), built in Clojure & backed by Datomic, DataScript or Datahike.
-- [0tx](https://0tx.app/): state-of-the-art, high-performance AI-friendly personal tax accounting ledger (SolidJS, Datomic Pro / Datahike)
+- [0tx](https://0tx.app/) ("ZeroTax") is state-of-the-art, high-performance AI-friendly personal tax accounting ledger (SolidJS, Datomic Pro / Datahike) that helps you Pay Less Tax.
 - [ExplainGame](https://explaingame.com/): The Party Explanation Game (mobile-friendly, built in Electric Clojure)
 - [BraaiSim](https://braaisim.com/): Braai Simulator built for Braai Day (mobile-only, Electric Clojure)
 
