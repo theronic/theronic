@@ -3,8 +3,8 @@
 Making software professionally for 20+ years, ideally with [Clojure](https://clojure.org/), [Electric Clojure](https://electric.hyperfiddle.net/) & [Datomic](https://www.datomic.com/).
 
 - BEng Electrical Engineering w/Comp. Sci (Stellenbosch, 2010)
-- CTO at [CloudAfrica](https://cloudafrica.net/) (we're [hiring](https://clojurians.slack.com/archives/C06B40HMY/p1761133923801689)).
-- Former CTO at [weFix](https://wefix.co.za/) (previously iFix).
+- Staff Engineer at @peach-payments.
+- Former CTO at [CloudAfrica](https://cloudafrica.net/), [weFix](https://wefix.co.za/) (previously iFix).
 - Author of [EACL](https://github.com/theronic/eacl).
 - You can [play Snake on my CV](https://petrustheron.com/cv/), built in [100 lines of ClojureScript](https://github.com/theronic/cljs-snake).
 - Top 2% on [StackOverflow](https://stackoverflow.com/users/198927/petrus-theron) 
