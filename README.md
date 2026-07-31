@@ -3,11 +3,11 @@
 Making software professionally for 20+ years, ideally with [Clojure](https://clojure.org/), [Electric Clojure](https://electric.hyperfiddle.net/) & [Datomic](https://www.datomic.com/).
 
 - BEng Electrical Engineering w/Comp. Sci (Stellenbosch, 2010)
-- Staff Engineer at @peach-payments.
-- Former CTO at [CloudAfrica](https://cloudafrica.net/), [weFix](https://wefix.co.za/) (previously iFix).
+- Staff Engineer at [Peach Payments](https://peachpayments.com/).
 - Author of [EACL](https://github.com/theronic/eacl).
+- Former CTO of [CloudAfrica](https://cloudafrica.net/) & [weFix](https://wefix.co.za/) (previously iFix).
 - You can [play Snake on my CV](https://petrustheron.com/cv/), built in [100 lines of ClojureScript](https://github.com/theronic/cljs-snake).
-- Top 2% on [StackOverflow](https://stackoverflow.com/users/198927/petrus-theron) 
+- Top 2% on [StackOverflow](https://stackoverflow.com/users/198927/petrus-theron) (though SO doesn't seem to show this anymore).
 - Based in Cape Town, South Africa (GMT+2)
 
 ## Projects:
