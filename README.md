@@ -19,13 +19,13 @@ Making software professionally for 20+ years, ideally with [Clojure](https://clo
 ## Audio & Music
 
 - I sing country as [@IndianaTunes](https://instagram.com/indianatunes).
-- [Faith Acoustics](https://faithacoustics.com/) sells high-fidelity budget streamers, DACs & amplifiers.
+- ~~[Faith Acoustics](https://faithacoustics.com/) sells high-fidelity budget streamers, DACs & amplifiers.~~
 - [Music](http://theronic.com/): Techno mixes by Theronic
 - [Wallfly](https://wallfly.webflow.io/):  Smart Volume Control (Embedded work, iOS)
 
 ## Links:
 
-- [Grug's Guide to Sound](https://petrustheron.com/posts/2024-12-12-grug-guide-to-sound.html): I sell high-fidelity amplifiers as a side-quest.
+- [Grug's Guide to Sound](https://petrustheron.com/posts/2024-12-12-grug-guide-to-sound.html): I (used to) sell high-fidelity amplifiers as a side-quest.
 - [Essays](http://petrustheron.com/Post) on [petrustheron.com](http://petrustheron.com/)
 
 ## Social Media
